@@ -1,0 +1,22 @@
+body{
+  padding: 25px;
+  font-family: 'Arial';
+  text-align: center;
+  background: #fefff7;
+}
+.title {
+	color: #000a4b;
+}
+h1 {
+  color: #99754e;
+  font-style: italic;
+}
+p {
+  color:#E0A96D;
+}
+ol {
+  color: #E0A96D;
+}
+img{
+  border-radius: 15px;
+}
